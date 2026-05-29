@@ -319,3 +319,13 @@ src/AdminPanel/wwwroot/content/js/app.js.map
 
 # Mac OS filesystem files
 .DS_Store
+
+# Visual Studio Code
+*.code-workspace
+
+# Build folders
+bin/
+obj/
+
+# Database backups
+backups/
